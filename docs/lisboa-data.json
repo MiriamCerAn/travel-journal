@@ -1,15 +1,26 @@
 {
   "nombre": "Lisboa",
-  "dias": 3,
+  "dias": 5,
   "lugares": [
     {
       "nombre": "Alfama",
       "tipo": "barrio",
+    },
+    {
+      "nombre": "Praça do Comércio",
+      "tipo": "monumento"
+    },
+    {
+      "nombre": "Mirador de Santa Luzia",
+      "tipo": "mirador"
     }
   ],
   "restaurantes": [
     {
       "nombre": "Time Out Market"
     }
+  ],
+  "curiosidades": [
+    "Tranvía 28"
   ]
 }
