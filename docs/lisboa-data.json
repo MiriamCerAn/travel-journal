@@ -1,0 +1,15 @@
+{
+  "nombre": "Lisboa",
+  "dias": 3,
+  "lugares": [
+    {
+      "nombre": "Alfama",
+      "tipo": "barrio",
+    }
+  ],
+  "restaurantes": [
+    {
+      "nombre": "Time Out Market"
+    }
+  ]
+}
